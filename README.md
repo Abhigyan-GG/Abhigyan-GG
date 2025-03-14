@@ -47,19 +47,30 @@
 
 ---
 
-## 🚀 My Projects:
-### ⚡ Vortix - Smart Home Gesture Control  
-- Gesture-based fan & light control using **ESP32 & Java**
-- Webcam & Sound detection for real-time control
+## 🚀 Projects
+### 🏦 SpillBill - QR-Based Billing System
+🔹 A smart billing system that uses QR codes for fast and seamless transactions.
+🔹 Built with Python & Flask, featuring a PostgreSQL/MongoDB database for storage.
+🔹 Includes an admin panel for tracking transactions and generating invoices.
 
-### 📈 PL Predictor  
-- Premier League Match Outcome Predictor  
-- **Tech Stack**: Flask, Electron.js, scikit-learn, PostgreSQL  
+### ⚽ PL Predictor - Premier League Match Outcome Prediction
+🔹 Predicts match results & scores with confidence scores using Logistic & Poisson regression.
+🔹 Uses scikit-learn, TensorFlow, and pandas for ML models.
+🔹 Integrates Football APIs & real-time updates from X for injury/news-based adjustments.
 
-### 🎮 Python Games  
-- Classic Games while learning Python  
-- **Snake Game, Tic-Tac-Toe, Flappy Bird AI**
+### 🏡 Vortix - Smart Home Gesture Control
+🔹 Controls lights and fans using gesture recognition via a webcam and sound detection.
+🔹 Built with Java for the frontend and ESP32 for IoT integration.
+🔹 Uses machine learning models for improved gesture detection accuracy.
 
+### 👤 Facial Detection System
+🔹 Compares live camera feed faces with stored master images for authentication.
+🔹 Built using MediaPipe for face recognition and logs detections with timestamps.
+🔹 Stores logs in a text file and can trigger automated access control.
+
+### 🎮 Python Game Collection
+🔹 A set of fun games built while learning Python and Pygame.
+🔹 Includes Snake, Tic-Tac-Toe, and Flappy Bird clones.
 ---
 
 ## 📫 Let's Connect!  
