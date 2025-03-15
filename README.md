@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
+  <img src="https://raw.githubusercontent.com/Abhigyan-GG/Abhigyan-GG/main/n8agw6z2smyb1.gif" width="500"/>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iansui&weight=500&size=30&pause=1000&center=true&width=435&lines=Hi+!+I+am+Abhigyan+;An+aspiring+Quant+Analyst" alt="Typing SVG" /></a>
 
