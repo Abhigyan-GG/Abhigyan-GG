@@ -56,6 +56,7 @@
 | **SpillBill** | QR-based billing system for retail stores | Python, Flask, PostgreSQL, React |
 | **Banking Account Management System** | Manages user bank accounts, transactions, & statements | Java, MySQL, JDBC |
 | **Games in Python** | Various games built while learning Python | Python, Pygame |
+| **RainCheck** | A weather app that provides real-time weather updates | Node.js, Express.js, OpenWeather API, HTML, CSS, JavaScript |
 
 ---
 
