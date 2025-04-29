@@ -18,7 +18,6 @@
 - 🏆 **Competitive Programmer** | Active on LeetCode, Codeforces, and GFG
 - 🔬 **Current Projects**:
   - **PL Predictor**: Predicting Premier League match outcomes using ML
-  - **Vortix**: Gesture-Controlled Smart Home Automation
   - **Facial Detection System**: Real-time face recognition with MediaPipe
 - 🎨 **Graphic Designer** | Thumbnails & Posters
 - 📖 **Currently Learning** | Java & MongoDb
