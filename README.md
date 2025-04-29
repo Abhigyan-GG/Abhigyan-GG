@@ -53,7 +53,6 @@
 | Project Name | Description | Tech Stack |
 |-------------|------------|------------|
 | **PL Predictor** | Predicts EPL match outcomes with ML & real-time data integration | Python, Flask, scikit-learn, TensorFlow, PostgreSQL, Electron.js |
-| **Vortix** | Gesture-based smart home automation using ESP32 | Java, Python, OpenCV, Firebase |
 | **Facial Detection System** | Real-time face recognition & logging with MediaPipe | Python, OpenCV, TensorFlow |
 | **SpillBill** | QR-based billing system for retail stores | Python, Flask, PostgreSQL, React |
 | **Banking Account Management System** | Manages user bank accounts, transactions, & statements | Java, MySQL, JDBC |
